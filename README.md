@@ -1,1 +1,1 @@
-# SSS-AWSdevops-pipeline
+# Sample Application for AWS DevOps Course
